@@ -352,6 +352,11 @@ onMounted(() => {
   //     obj[materialList.value[i].name][materialList.value[j].name] = getEquipment(materialList.value[i].name, materialList.value[j].name)
   //   }
   // }
+  
+  let materialList = ['暴风大剑', '反曲之弓', '无用大棒', '拳套', '锁子甲']
+
+  
+
 
 })
 
